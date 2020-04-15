@@ -25,7 +25,7 @@ git clone https://github.com/CSSEGISandData/COVID-19
 jupyter notebook
 ```
 
-# Updating the Johns Hopkins Data
+## Updating the Johns Hopkins Data
 
 The Johns Hopkins repository appears to be updated about once per day with new daily statistics for each region. To get the latest data:
 
